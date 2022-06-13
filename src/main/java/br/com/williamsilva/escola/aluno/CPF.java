@@ -1,4 +1,4 @@
-package escola;
+package br.com.williamsilva.escola.aluno;
 
 public class CPF {
 
